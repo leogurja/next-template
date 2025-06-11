@@ -17,7 +17,7 @@ A clean and minimal starter template built with [Next.js](https://nextjs.org/). 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/nextjs-template.git
+git clone https://github.com/leogurja/nextjs-template.git
 cd nextjs-template
 ```
 
