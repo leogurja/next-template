@@ -45,6 +45,10 @@ pnpm run dev
 
 Open [http://localhost:3000](http://localhost:3000) in your browser.
 
+### 4. Make it yours
+
+Search for `EDIT:` comments (use `Ctrl+Shift+F` in `VSCode`) — these mark areas you should customize, like titles, meta tags, or project-specific settings.
+
 ## 📁 Project Structure
 
 This project applies the principles of Atomic Design to organize UI components by their level of complexity and reusability.
